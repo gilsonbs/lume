@@ -1,0 +1,16 @@
+# Vídeos e projetos gerados localmente
+exports/
+*.webm
+*.mp4
+*.lume
+
+# Dependências e arquivos locais
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
